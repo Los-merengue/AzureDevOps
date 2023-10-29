@@ -9,3 +9,10 @@ In this project, you'll integrate Azure Boards, GitHub Actions, and Azure Pipeli
 ### Diagram Description
 
 A flowchart illustrating the integration of Azure Boards, Github Actions, and Azure Pipelines. The chart will show how work items move from "To Do" to "Done" and how code changes trigger pipeline actions and update the board.
+
+
+
+2. Azure Boards Configuration:
+
+- Enable Azure Boards and create a backlog.
+- Create different work item types like User Stories, Bugs, and Tasks.
