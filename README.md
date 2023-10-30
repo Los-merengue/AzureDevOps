@@ -16,3 +16,7 @@ A flowchart illustrating the integration of Azure Boards, Github Actions, and Az
 
 - Enable Azure Boards and create a backlog.
 - Create different work item types like User Stories, Bugs, and Tasks.
+
+3. Repository Integration:
+
+- Integrate the GitHub repository with Azure Boards.
