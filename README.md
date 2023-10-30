@@ -13,10 +13,14 @@ A flowchart illustrating the integration of Azure Boards, Github Actions, and Az
 
 
 2. Azure Boards Configuration:
-
 - Enable Azure Boards and create a backlog.
 - Create different work item types like User Stories, Bugs, and Tasks.
 
-3. Repository Integration:
 
+3. Repository Integration:
 - Integrate the GitHub repository with Azure Boards.
+
+
+4. Workflow Automation:
+- Create a GitHub Actions workflow that triggers on pull request events.
+- Integrate this workflow to update work item status in Azure Boards.
